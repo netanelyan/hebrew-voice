@@ -23,15 +23,15 @@ _Placeholder. My own writing samples get added here, and they take priority over
 
 ## 3. Brand references: what to borrow
 
-**Wolt Israel.** Borrow the short warm UI lines: "כל מה שמתחשק עד אליכם", "זהו, הגעת לסוף", "סתם בא לכם לומר שלום?". Section titles that are a verb people actually do ("ממלאים את המקרר"). One real number instead of an adjective ("91% מההזמנות מגיעות מלקוחות חדשים"). Don't borrow their business-signup pages, which are full of "בלי התחייבות ובלי הפתעות" and "יותר X, יותר Y".
+**Wolt Israel.** Borrow the short warm UI lines: "כל מה שמתחשק עד אליכם", "זהו, הגעת לסוף", "סתם בא לכם לומר שלום?". Section titles that are a verb people actually do ("ממלאים את המקרר"). One real number instead of an adjective ("91% מההזמנות מגיעות מלקוחות חדשים"). On Instagram, borrow the short reaction captions ("לא נגענו", "התארגנתם לבד?") and honest everyday moments ("הרגע הזה שהוולטר איתר את הכתובת למרות שלא ענית"). Don't borrow their business-signup pages, which are full of "בלי התחייבות ובלי הפתעות" and "יותר X, יותר Y", or the emoji on every caption.
 
-**IKEA Israel.** Borrow the self-aware tone in small places, like the 404 page ("נראה שהקישורים שלנו זקוקים לטיפוח. מצטערים!"), and the seasonal chores people really do ("עושים סדר בין העונות"). Concrete how-to promises with a number ("ב-5 שלבים פשוטים"). Don't borrow the translated feel ("מגדירים מחדש את חווית הגיימינג", "מאורה מעודנת") or balanced pairs like "נעים ואישי. יפה ומשתלם."
+**IKEA Israel.** Borrow the self-aware tone in small places, like the 404 page ("נראה שהקישורים שלנו זקוקים לטיפוח. מצטערים!"), and the seasonal chores people really do ("עושים סדר בין העונות"). Concrete how-to promises with a number ("ב-5 שלבים פשוטים"). On Instagram, the closest thing to our voice is the influencer collabs, where one person says what they actually did ("הפכתי 2 מוצרים של איקאה לגוף תאורה"). Don't borrow IKEA's own "מגוון פתרונות" captions or the translated feel ("מגדירים מחדש את חווית הגיימינג", "מאורה מעודנת") or balanced pairs like "נעים ואישי. יפה ומשתלם."
 
 **mako.** Borrow the spoken phrasing in food and lifestyle headlines: "שעה ומוכן", "יופי של פיתה", "עד שיתקרר קצת", "שחיכינו לה שנתיים". The writer admitting effort ("הצלחנו") and naming a real price or place ("ב-74 שקלים", "בקריית אונו"). Never borrow the hooks (see section 5).
 
 **walla.** Borrow the casual register and English said the Israeli way: "נכנסים בול", "פטנט", "בייקרי", "קאמבק". Questions a real person asks ("ראיתם את התור ולא הבנתם מה קורה שם?"). First-person honesty ("אני אמא לארבעה ואני אוהבת לשתות"). Never borrow the hooks.
 
-**@push.il.** _Not collected yet. Add once captions are in._
+**@push.il.** A news account, so it's here for speed, not warmth. Borrow how much one caption line can carry, and the habit of keeping quotes the way people said them ("יאלללה", "היה חסר לנו קול אחד"). When there's a "we", it names who it thanks. Never borrow the 💔 and 👇 emoji used as reaction buttons, the "מה תאחלו לו?" engagement questions, or the label-and-colon headlines.
 
 ## 4. Rules toward human copy
 
@@ -56,17 +56,19 @@ If a draft has any of these, rewrite the sentence. Don't just swap a word.
 - **Colons in headings.** "תדר: תוכן שמביא לקוחות". This also covers news-style label openers: "בשורה משמחת:", "סוף סוף:", "חדש:", "מבריק:".
 - **Grids of identical feature cards** with perfectly parallel copy (icon, two-word title, one-line blurb, times six).
 - **Triads and perfectly balanced sentences.** "מהיר, פשוט ומשתלם", "נעים ואישי. יפה ומשתלם.", "יותר משלוחים, יותר רווחים.", "פחות X, יותר Y".
-- **Withheld subject or twist teasers.** "זה מה שקרה כש...", "הסוד ש...", "והיא לא מה שאתם חושבים", "זאת הסיבה", "לא תאמינו".
+- **Withheld subject or twist teasers.** "זה מה שקרה כש...", "הסוד ש...", "והיא לא מה שאתם חושבים", "זאת הסיבה", "לא תאמינו", "משהו גדול בדרך...".
 - **Hyphen-before-the-payoff twists.** "הבטחנו X - ותראו מה קרה".
 
 **Words and claims**
 
 - **Reassurance filler.** "חינם, בלי כרטיס אשראי", "מבטלים במילה אחת", "100% בלי סיכון", "בלי אותיות קטנות", "השליטה אצלכם".
 - **Superlatives with nothing behind them.** "הכי X בארץ", "מהאגדות", "ממציא מחדש", "מגדירים מחדש את...", "מהפכה", "משנה את כללי המשחק".
-- **Abstract corporate nouns.** "חוויה", "פתרון", "פלטפורמה מתקדמת", "מעצימים", "ערך מוסף", "לקחת את העסק לשלב הבא". Name the actual thing.
+- **Abstract corporate nouns.** "חוויה", "פתרון", "מגוון פתרונות", "פלטפורמה מתקדמת", "מעצימים", "ערך מוסף", "לקחת את העסק לשלב הבא". Name the actual thing.
 - **Faceless helper lines.** "אנחנו כאן כדי לעזור לעסק שלכם לגדול!", "הצוות שלנו כאן בשבילכם". It's me, and I can say what I'll do.
 - **Manufactured urgency.** "אזהרה:", "אל תפספסו", "רק היום", "מהרו". If there's a real deadline, give the date.
-- **Hype punctuation.** Stacked exclamation marks, spaced-out letters ("מ-ט-ר-י-ף"), ALL-CAPS English for emphasis.
+- **Hype punctuation.** Stacked exclamation or question marks ("!!", "???"), spaced-out letters ("מ-ט-ר-י-ף"), ALL-CAPS English for emphasis.
+- **Emoji as a feeling button.** 💔 or 🔥 doing the job of an opinion, 👇 to push comments, an emoji at the end of every line.
+- **Engagement-bait questions.** "מה דעתכם? 👇", "תייגו חבר ש...", "תגיבו X ואשלח לכם". Ask a question only if I actually want the answer.
 - **Gendered slashes.** "את/ה", "מוזמנ/ת". Rephrase instead (see section 1).
 - **Masculine singular aimed at a crowd.** "קנה", "מצא את החנות המועדפת עליך" on a public page. It reads machine-translated.
 
