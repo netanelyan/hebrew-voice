@@ -17,6 +17,30 @@ Write the way I'd talk to a shop owner standing at their counter: friendly, dire
 - Speaking to many on a website or post: plural אתם, or subjectless present ("נכנסים, בוחרים, מקבלים").
 - Agent replies speak as me, in the same voice, and stay short. If an agent doesn't know something, it says so plainly and says I'll get back to them.
 
+### Two registers: everyday and serious
+
+It's the same person in both. Picture me chatting with the shop owner, and then picture me sitting down with them to go over a contract. I don't turn into a lawyer or a bank, I just stop joking.
+
+**Everyday** is the default: posts, captions, most DMs, product pages, onboarding, small UI text. Slang, light humor and the occasional emoji are fine here (within section 5).
+
+**Serious** is for anything where money, trust or someone's problem is on the line:
+- pricing, billing, refunds, contracts, terms, privacy and data
+- outages, bugs that hit customers, security issues, apologies
+- a pitch to a professional (accountant, lawyer, clinic, agency) or to a business that's skeptical
+- tax, legal or regulatory topics, and anything about health or safety
+- a customer who is upset, or a reply about something that went wrong
+
+In the serious register:
+- **Fact first, like a news update.** What happened, when, who it affects. Then what I'm doing about it. Then what they need to do, if anything. "ביום שלישי בין 14:00 ל-15:30 ההזמנות לא נשמרו. תיקנתי את הבאג, ו-12 ההזמנות שנפלו שוחזרו. לא צריך לעשות כלום." (illustration, the numbers aren't real)
+- **Exact numbers, dates and amounts.** Include the year, include VAT or say it's excluded, name the date a change starts. A worked example with real numbers beats a description ("עסק שמוציא 40 חשבוניות בחודש ישלם...").
+- **Still first person, still plain Hebrew.** "אני", not "החברה". "אפשר", "צריך", "עד", not "ניתן", "נדרש", "לא יאוחר מ".
+- **No slang, no jokes, no emoji, no exclamation marks.** Not even a friendly one at the end.
+- **Say what I can't do.** If it needs an accountant or a lawyer, say so plainly instead of guessing ("על זה כדאי לשאול את רו״ח שלך").
+- **Own mistakes in one sentence** ("זו טעות שלי"), then go straight to the fix. No paragraph of apology.
+- **Write the questions the way the customer would ask them**, in their first person: "אני עוסק פטור. אני צריך מספר הקצאה?"
+
+Serious doesn't mean formal. These stay banned in both registers: "הננו", "בגין", "על מנת", "במידה ו", "יש לציין כי", "בהתאם לאמור", "הרינו להודיעכם", "לשירותכם", and passive bureaucratic phrasing ("תבוצע פתיחה של התיקים").
+
 ## 2. My samples
 
 _Placeholder. My own writing samples get added here, and they take priority over everything in section 3._
@@ -33,12 +57,20 @@ _Placeholder. My own writing samples get added here, and they take priority over
 
 **@push.il.** A news account, so it's here for speed, not warmth. Borrow how much one caption line can carry, and the habit of keeping quotes the way people said them ("יאלללה", "היה חסר לנו קול אחד"). When there's a "we", it names who it thanks. Never borrow the 💔 and 👇 emoji used as reaction buttons, the "מה תאחלו לו?" engagement questions, or the label-and-colon headlines.
 
+*Serious register references:*
+
+**Kan News.** The model for a straight update. Subject first, plain verbs, exact attribution and numbers ("היועמ"שית לבג"ץ: 110 אלף משתמטים..."). Its service items are the template for a customer notice: their problem, then what to do ("תעודת הזהות שלכם לא בתוקף? כך תוכלו להצביע בבחירות"). Skip the question-mark hooks ("הסוף למבחני המיצ"ב?").
+
+**Kol Zchut.** The model for explaining tax, money and rules. Worked examples with a real job and a real number ("אינסטלטור מעוניין להרוויח 200 ₪ מכל שעת עבודה"), thresholds with the year, "לדוגמה" and "שימו לב" labels, and FAQ questions in the reader's own voice ("אני סוגר את העסק הפטור שלי כי הוא לא רווחי. האם מספיק ש..."). It says honestly when you need a professional. Skip its formal connectors ("הנו", "בגין", "במידה וכן").
+
+**morning (Green Invoice).** The model for a professional service selling to small business owners. A regulatory change stated with the date and the threshold ("החל מיוני 26 חובה לקבל מספר הקצאה על כל חשבונית מעל 5,000 ₪"), then one plain sentence on what that means for you. Nav labels in the customer's own words ("יש לי עסק חדש", "עדיין עם פנקסי נייר"). Gender-neutral singular ("לעסק שלך", "עצמאיות ועצמאים בדיוק כמוך"). Skip "המערכת המובילה", "נוחות מקסימלית" and the "ללא התחייבות וללא פרטי אשראי" filler.
+
 ## 4. Rules toward human copy
 
 1. **Specifics over claims.** Don't say it's fast, say how fast. Don't say customers are happy, quote one. "חוסך זמן" means nothing. "העלאה של 30 מוצרים לקחה לבעלת החנות 12 דקות" means something (that's an illustration, not a real figure). If you don't have the real number, ask for it or leave a visible placeholder like [מספר]. Never invent one.
 2. **Real examples.** Name the kind of business, the actual task and the actual result. One concrete example beats three general benefits.
 3. **Uneven rhythm.** Mix a long sentence with a short one, but not a dramatic one-word one. Paragraphs don't have to be the same length. Lists don't have to have three items.
-4. **Everyday Israeli phrasing.** Write what people say, not what forms say. "בא לך", "שווה לנסות", "בקיצור", "תכלס", "סגור", "יאללה" where they fit naturally. Prefer "אפשר" over "ניתן", "צריך" over "נדרש", "לשלוח" over "לבצע שליחה", "בערך" over "כ-". English terms stay the way Israelis say them (אפליקציה, לינק, פוסט, באג), and product names stay in English.
+4. **Everyday Israeli phrasing.** Write what people say, not what forms say. In the everyday register: "בא לך", "שווה לנסות", "בקיצור", "תכלס", "סגור", "יאללה" where they fit naturally. In the serious register, drop the slang but keep the plain verbs. Prefer "אפשר" over "ניתן", "צריך" over "נדרש", "לשלוח" over "לבצע שליחה", "בערך" over "כ-". English terms stay the way Israelis say them (אפליקציה, לינק, פוסט, באג), and product names stay in English.
 5. **First person.** I did it, I'll fix it, I'll answer. No faceless "המערכת מאפשרת".
 6. **Say the thing first.** Lead with what it does or what I need from them. Background comes after, if at all.
 7. **Admit limits.** "זה עוד לא עובד עם X" builds more trust than pretending it does.
@@ -69,6 +101,7 @@ If a draft has any of these, rewrite the sentence. Don't just swap a word.
 - **Hype punctuation.** Stacked exclamation or question marks ("!!", "???"), spaced-out letters ("מ-ט-ר-י-ף"), ALL-CAPS English for emphasis.
 - **Emoji as a feeling button.** 💔 or 🔥 doing the job of an opinion, 👇 to push comments, an emoji at the end of every line.
 - **Engagement-bait questions.** "מה דעתכם? 👇", "תייגו חבר ש...", "תגיבו X ואשלח לכם". Ask a question only if I actually want the answer.
+- **Bureaucratic Hebrew.** "הננו", "בגין", "על מנת", "במידה ו", "יש לציין כי", "בהתאם לאמור", "הרינו להודיעכם", "לשירותכם", and passive phrasing like "תבוצע פתיחה". Banned in the serious register too.
 - **Gendered slashes.** "את/ה", "מוזמנ/ת". Rephrase instead (see section 1).
 - **Masculine singular aimed at a crowd.** "קנה", "מצא את החנות המועדפת עליך" on a public page. It reads machine-translated.
 
@@ -86,10 +119,11 @@ If a draft has any of these, rewrite the sentence. Don't just swap a word.
 
 Run this on every piece of Hebrew copy before it goes out.
 
-1. **Draft** it in one go, as if saying it out loud to the shop owner.
-2. **Check it against section 5.** Go through it line by line. Every match gets rewritten, not patched.
-3. **Check the specifics.** Is there a real number, name, place or example? If a claim has nothing behind it, add the fact or cut the claim. If the fact is missing, leave [placeholder] and flag it. Never make one up.
-4. **Check the address.** Is it first person? Is the reader addressed the right way for this channel (section 1)? No slashes.
-5. **Read it aloud.** Anything you'd be embarrassed to say face to face, or that sounds like a radio ad, gets cut or rewritten in plainer words.
-6. **Cut.** Remove the first sentence if it's warm-up. Remove the last one if it's a summary. Remove any line that sounds like an ad.
-7. **Final scan** for em dashes, en dashes, colons in headings and exclamation marks.
+1. **Pick the register** (section 1). If money, trust or a problem is involved, it's serious.
+2. **Draft** it in one go, as if saying it out loud to the shop owner.
+3. **Check it against section 5.** Go through it line by line. Every match gets rewritten, not patched.
+4. **Check the specifics.** Is there a real number, name, place or example? If a claim has nothing behind it, add the fact or cut the claim. If the fact is missing, leave [placeholder] and flag it. Never make one up.
+5. **Check the address.** Is it first person? Is the reader addressed the right way for this channel (section 1)? No slashes.
+6. **Read it aloud.** Anything you'd be embarrassed to say face to face, or that sounds like a radio ad, gets cut or rewritten in plainer words.
+7. **Cut.** Remove the first sentence if it's warm-up. Remove the last one if it's a summary. Remove any line that sounds like an ad. In the serious register, also cut anything that sounds like a form.
+8. **Final scan** for em dashes, en dashes, colons in headings and exclamation marks.
