@@ -17,9 +17,10 @@ When Claude writes or edits Hebrew, the skill makes it:
 
 | Path | What it is |
 |------|------------|
-| `SKILL.md` | Skill entry point. Tells Claude to follow `voice.md` and run the rewrite pass. |
-| `voice.md` | The voice itself: who's talking, registers, brand takeaways, rules, banned patterns and the rewrite pass. It also works without the skill, as a system prompt for any model. |
-| `samples/` | Real writing samples from the person whose voice this is. |
+| `SKILL.md` | Skill entry point. Tells Claude to read your profile and `voice.md`, then run the rewrite pass. |
+| `voice.md` | The voice itself: default speaker, registers, what to learn from good Israeli copy, rules, banned patterns and the rewrite pass. It also works without the skill, as a system prompt for any model. |
+| `profile.example.md` | Template for your speaker profile. Copy it to `profile.md`, which is gitignored. |
+| `samples/` | Your real writing samples. |
 | `references/` | Optional and gitignored. Raw examples from brands and media, kept locally for study. |
 | `tests/` | Reserved for tests. |
 
@@ -47,13 +48,13 @@ New-Item -ItemType Junction -Path "$env:USERPROFILE\.claude\skills\hebrew-voice"
 - Or call it directly: `/hebrew-voice כתוב פוסט קצר על הפיצ'ר החדש`
 - To edit existing text, paste it and ask Claude to run it through hebrew-voice.
 
-To use the voice outside Claude Code, load `voice.md` into your system prompt.
+To use the voice outside Claude Code, put your `profile.md` followed by `voice.md` into the system prompt.
 
 ## Make it yours
 
-`voice.md` is written for one specific speaker. To adapt it:
+Out of the box, the voice is a small business owner writing in first person to their customers. To make it yours:
 
-1. Rewrite section 1 (who's talking) for your own speaker and audience.
-2. Add your own writing to `samples/` and summarize it in section 2. Samples take priority over everything else.
-3. Swap the brand takeaways in section 3 for sources that fit your audience.
-4. Add your own banned patterns to section 5 as you find them.
+1. Copy `profile.example.md` to `profile.md` and fill in who's talking, who you're talking to and where.
+2. Add your own writing to `samples/` and summarize it in the profile. Samples take priority over everything else.
+3. Optionally, list the brands or media you want to learn from in the profile, and keep raw examples in `references/`.
+4. Add your own banned patterns to section 5 of `voice.md` as you find them.
