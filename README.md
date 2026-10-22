@@ -1,43 +1,59 @@
 # hebrew-voice
 
-The Hebrew copywriting voice I use across Toran, Teder and Tiyul+: websites, pitch pages, posts, captions, DMs and AI agent replies.
+A Claude skill for writing and editing Hebrew copy that sounds like a person, not a company or an AI. Use it for website copy, landing pages, social posts, captions, DMs and chatbot or agent replies.
 
-## What's here
+## What it does
 
-- `voice.md` is the source of truth. It covers who's talking, the everyday and serious registers, what to borrow from each brand, the rules, the banned patterns and the rewrite pass. It stands on its own, so it can be loaded as-is into the Toran and Teder system prompts.
-- `SKILL.md` is the Claude Code skill wrapper. It tells the model to follow `voice.md` and run the rewrite pass before returning any Hebrew.
-- `references/` (local only, gitignored) has one file per source, with short examples (URL and date for each) and a breakdown of what to borrow and what to avoid:
-  - everyday: Wolt, IKEA, mako, walla, @push.il
-  - serious: Kan News, Kol Zchut, morning (Green Invoice)
+When Claude writes or edits Hebrew, the skill makes it:
 
-  The takeaways from each source are already summarized in section 3 of `voice.md`, so the skill works without this folder.
-- `samples/` is for my own writing. Empty for now.
-- `tests/` is empty for now.
+- follow the voice defined in `voice.md`
+- pick a register: **everyday** for posts, captions, chats and product copy, or **serious** for pricing, billing, legal, outages and anything where trust is on the line
+- avoid common AI and ad-copy patterns: punchy "לא X" claims, "בלי X ובלי Y", triads, dramatic one-word sentences, colons in headings, reassurance filler, bureaucratic Hebrew, polite chatbot phrases, emoji as filler and em dashes
+- prefer specifics, real numbers and everyday Israeli phrasing over claims
+- run a rewrite pass before returning any text
+- leave a visible `[placeholder]` instead of making up facts
 
-## Install as a Claude Code skill
+## Files
 
-Link the repo into the skills folder.
+| Path | What it is |
+|------|------------|
+| `SKILL.md` | Skill entry point. Tells Claude to follow `voice.md` and run the rewrite pass. |
+| `voice.md` | The voice itself: who's talking, registers, brand takeaways, rules, banned patterns and the rewrite pass. It also works without the skill, as a system prompt for any model. |
+| `samples/` | Real writing samples from the person whose voice this is. |
+| `references/` | Optional and gitignored. Raw examples from brands and media, kept locally for study. |
+| `tests/` | Reserved for tests. |
+
+## Install
+
+Clone the repo and link it into your Claude skills folder.
 
 macOS / Linux:
 
 ```sh
-ln -s "$(pwd)" ~/.claude/skills/hebrew-voice
+git clone https://github.com/netanelyan/hebrew-voice.git
+ln -s "$(pwd)/hebrew-voice" ~/.claude/skills/hebrew-voice
 ```
 
-Windows (no admin needed):
+Windows (PowerShell, no admin needed):
 
 ```powershell
-New-Item -ItemType Junction -Path "$env:USERPROFILE\.claude\skills\hebrew-voice" -Target (Get-Location)
+git clone https://github.com/netanelyan/hebrew-voice.git
+New-Item -ItemType Junction -Path "$env:USERPROFILE\.claude\skills\hebrew-voice" -Target "$PWD\hebrew-voice"
 ```
 
-Then ask for any Hebrew copy, or call it directly with `/hebrew-voice`.
+## Use
 
-## Open TODOs
+- Ask for any Hebrew copy and Claude loads the skill on its own.
+- Or call it directly: `/hebrew-voice כתוב פוסט קצר על הפיצ'ר החדש`
+- To edit existing text, paste it and ask Claude to run it through hebrew-voice.
 
-- Add my own samples to `samples/` and section 2 of `voice.md`.
-- Paste real Wolt app push notifications into `references/wolt.md` (local).
-- Add IKEA TV and print campaign lines to `references/ikea.md` (local) if I want them.
+To use the voice outside Claude Code, load `voice.md` into your system prompt.
 
-## Note
+## Make it yours
 
-`references/` quotes copy from other brands and news sites for study, so it isn't committed. It lives only on my machine.
+`voice.md` is written for one specific speaker. To adapt it:
+
+1. Rewrite section 1 (who's talking) for your own speaker and audience.
+2. Add your own writing to `samples/` and summarize it in section 2. Samples take priority over everything else.
+3. Swap the brand takeaways in section 3 for sources that fit your audience.
+4. Add your own banned patterns to section 5 as you find them.
