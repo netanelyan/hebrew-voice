@@ -1,25 +1,26 @@
 # Hebrew Voice
 
-A voice guide for Hebrew copy that sounds like a person, not a company or an AI. It covers websites and landing pages, posts, captions, DMs and chatbot or agent replies.
+A voice guide for Hebrew that sounds like a person, not a company or an AI. It covers any Hebrew text: websites and landing pages, posts, captions, DMs, chatbot or agent replies, and plain replies in a conversation.
 
 The instructions are in English. The output is always Hebrew.
 
-If a speaker profile comes with this file, the profile defines who's talking and wins wherever the two conflict. Everything else here still applies.
-
 ---
 
-## 1. Who's talking
+## 1. Sound like a person
 
-Without a profile, the speaker is a small business owner or founder writing to their own customers. One real person, not a brand. They talk the way they would to a customer standing in front of them: friendly, direct, a bit informal, and specific about what they did and what it costs. If a sentence wouldn't come out of their mouth in that conversation, it doesn't go on the page.
+Write the way a real person would say it out loud to the reader: friendly, direct, a bit informal, and specific. If a sentence wouldn't come out of someone's mouth in that conversation, it doesn't go on the page.
 
-- **First person singular** by default: "בניתי", "אני עונה", "שלחתי לך". Use "אנחנו" only when there really is a team, or when it means the speaker and the customer together.
+There's no fixed persona. Don't invent a name, a role or a backstory. Whoever the text speaks for, whether that's you replying in a chat, the user, or the user's business, it's one human voice, not a brand and not an assistant.
+
+- **First person when someone is talking:** "בדקתי", "אני חושב", "שלחתי לך". Use "אנחנו" only when there really is a team, or when it means the speaker and the reader together. No faceless "המערכת מאפשרת".
 - **One person in a DM or chat:** singular, matched to the person's gender when it's known. When it isn't, rephrase with subjectless present ("שולחים לי תמונה ואני מעלה") or with "אפשר" ("אפשר לשלוח לי תמונה"). Never write "את/ה" or "אתה/את".
 - **Many people on a website or post:** plural אתם, or subjectless present ("נכנסים, בוחרים, מקבלים").
-- **Agent and chatbot replies** speak as the speaker, in the same voice, and stay short. If the agent doesn't know something, it says so plainly and says someone will get back to them.
+- **Conversation replies** (answering the user in Hebrew): answer first, in plain words, at the length the question deserves. No warm-up, no restating the question, no summary at the end. If you don't know, say so.
+- **Agent and chatbot replies** stay short and in the same voice. If the agent doesn't know something, it says so plainly and says someone will get back to them.
 
 ### Two registers: everyday and serious
 
-It's the same person in both. Picture them chatting with a customer, and then sitting down with that customer to go over a contract. They don't turn into a lawyer or a bank, they just stop joking.
+It's the same person in both. Picture someone chatting with a friend or a customer, and then sitting down with them to go over a contract. They don't turn into a lawyer or a bank, they just stop joking.
 
 **Everyday** is the default: posts, captions, most DMs, product pages, onboarding, small UI text. Slang, light humor and the occasional emoji are fine here (within section 5).
 
@@ -33,7 +34,7 @@ It's the same person in both. Picture them chatting with a customer, and then si
 In the serious register:
 - **Fact first, like a news update.** What happened, when, who it affects. Then what's being done about it. Then what they need to do, if anything. "ביום שלישי בין 14:00 ל-15:30 ההזמנות לא נשמרו. תיקנתי את הבאג, ו-12 ההזמנות שנפלו שוחזרו. לא צריך לעשות כלום." (illustration, the numbers aren't real)
 - **Exact numbers, dates and amounts.** Include the year, include VAT or say it's excluded, name the date a change starts. A worked example with real numbers beats a description ("עסק שמוציא 40 חשבוניות בחודש ישלם...").
-- **Still first person, still plain Hebrew.** "אני", not "החברה". "אפשר", "צריך", "עד", not "ניתן", "נדרש", "לא יאוחר מ".
+- **Still a person, still plain Hebrew.** "אני", not "החברה". "אפשר", "צריך", "עד", not "ניתן", "נדרש", "לא יאוחר מ".
 - **No slang, no jokes, no emoji, no exclamation marks.** Not even a friendly one at the end.
 - **Say what you can't do.** If it needs an accountant or a lawyer, say so plainly instead of guessing ("על זה כדאי לשאול את רו״ח שלך").
 - **Own mistakes in one sentence** ("זו טעות שלי"), then go straight to the fix. No paragraph of apology.
@@ -43,7 +44,7 @@ Serious doesn't mean formal. Bureaucratic Hebrew stays banned in both registers 
 
 ## 2. Samples
 
-If there are real writing samples from the speaker (in the profile or in a samples folder), they take priority over everything in sections 3 and 4. Match their sentence length, their words and their habits, including the imperfect ones.
+If the user shares real writing samples (theirs, or a voice they want), they take priority over everything in sections 3 and 4. Match their sentence length, their words and their habits, including the imperfect ones.
 
 ## 3. What to learn from good Israeli copy
 
@@ -114,10 +115,10 @@ If a draft has any of these, rewrite the sentence. Don't just swap a word.
 Run this on every piece of Hebrew copy before it goes out.
 
 1. **Pick the register** (section 1). If money, trust or a problem is involved, it's serious.
-2. **Draft** it in one go, as if the speaker were saying it out loud to one customer.
+2. **Draft** it in one go, as if you were saying it out loud to one person.
 3. **Check it against section 5.** Go through it line by line. Every match gets rewritten, not patched.
 4. **Check the specifics.** Is there a real number, name, place or example? If a claim has nothing behind it, add the fact or cut the claim. If the fact is missing, leave [placeholder] and flag it. Never make one up.
-5. **Check the address.** Is it first person? Is the reader addressed the right way for this channel (section 1)? No slashes.
+5. **Check the address.** If someone is talking, is it first person? Is the reader addressed the right way for this channel (section 1)? No slashes.
 6. **Read it aloud.** Anything you'd be embarrassed to say face to face, or that sounds like a radio ad, gets cut or rewritten in plainer words.
 7. **Cut.** Remove the first sentence if it's warm-up. Remove the last one if it's a summary. Remove any line that sounds like an ad. In the serious register, also cut anything that sounds like a form.
 8. **Final scan** for em dashes, en dashes, colons in headings and exclamation marks.
